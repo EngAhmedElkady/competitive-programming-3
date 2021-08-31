@@ -1,0 +1,30 @@
+1-  : Type Code Faster
+2-  : Quickly Identify Problem Types
+        - constrain
+        - problem
+3-  : Do Algorithm Analysis
+4-  : Master Programming Languages
+5-  : Master the Art of Testing Code
+6-  : Practice and More Practice
+
+
+
+7-  : scanf --> %d --> int and float
+
+    : scanf("%*s %d", &a) --> The %*s in scanf is used to ignore some input as required.
+     In this case, it ignores the input until the next space or new line.
+     Similarly, if you write %*d it will ignore integers until the next space or new line.
+
+    int	                               %d
+    char	                           %c
+    float	                           %f
+    double    	                       %lf
+    short int                          %hd
+    unsigned int	                   %u
+    long int	                       %li
+    long long int	                   %lli
+    unsigned long int	               %lu
+    unsigned long long int	           %llu
+    signed char                        %c
+    unsigned char	                   %c
+    long double	                       %Lf
